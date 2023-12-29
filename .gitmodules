@@ -1,0 +1,3 @@
+[submodule "localization_test"]
+	path = localization_test
+	url = https://github.com/Andrej730/localization_test
